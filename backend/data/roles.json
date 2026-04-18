@@ -1,0 +1,134 @@
+[
+  {
+    "roleName": "Data Analyst",
+    "category": "Data",
+    "requiredSkills": ["SQL", "Excel", "Tableau", "Python", "Data Visualization", "Statistics"],
+    "avgSalaryYear1": 65000,
+    "avgSalaryYear5": 95000,
+    "demandScore": 85,
+    "automationRiskScore": 55,
+    "growthRate": 15,
+    "description": "Analyzes data to help businesses make decisions. High demand but moderate automation risk as BI tools become more intelligent."
+  },
+  {
+    "roleName": "Machine Learning Engineer",
+    "category": "AI",
+    "requiredSkills": ["Python", "TensorFlow", "PyTorch", "Math", "Algorithms", "Cloud Computing"],
+    "avgSalaryYear1": 110000,
+    "avgSalaryYear5": 170000,
+    "demandScore": 95,
+    "automationRiskScore": 15,
+    "growthRate": 35,
+    "description": "Designs and builds ML models. Extremely high demand and low automation risk, a top-tier future-proof career."
+  },
+  {
+    "roleName": "Frontend Developer",
+    "category": "Web",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "TypeScript", "UI/UX"],
+    "avgSalaryYear1": 75000,
+    "avgSalaryYear5": 120000,
+    "demandScore": 80,
+    "automationRiskScore": 45,
+    "growthRate": 10,
+    "description": "Builds user interfaces for web applications. Continuous demand, though AI coding assistants are increasing developer efficiency."
+  },
+  {
+    "roleName": "Cybersecurity Analyst",
+    "category": "Cyber",
+    "requiredSkills": ["Network Security", "Linux", "Python", "SIEM", "Incident Response", "Cryptography"],
+    "avgSalaryYear1": 85000,
+    "avgSalaryYear5": 135000,
+    "demandScore": 92,
+    "automationRiskScore": 20,
+    "growthRate": 25,
+    "description": "Protects organizations from cyber threats. Essential role with very low automation risk due to changing threat landscapes."
+  },
+  {
+    "roleName": "Cloud Engineer",
+    "category": "Cloud",
+    "requiredSkills": ["AWS", "Azure", "Linux", "Docker", "Kubernetes", "Networking"],
+    "avgSalaryYear1": 95000,
+    "avgSalaryYear5": 150000,
+    "demandScore": 90,
+    "automationRiskScore": 25,
+    "growthRate": 22,
+    "description": "Designs and manages cloud infrastructure. Strong growth as companies continue to migrate systems to the cloud."
+  },
+  {
+    "roleName": "Backend Developer",
+    "category": "Web",
+    "requiredSkills": ["Node.js", "Python", "Java", "SQL", "MongoDB", "API Design"],
+    "avgSalaryYear1": 85000,
+    "avgSalaryYear5": 135000,
+    "demandScore": 82,
+    "automationRiskScore": 40,
+    "growthRate": 12,
+    "description": "Develops server-side logic and databases. Solid career path, though AI tools are speeding up routine API generation."
+  },
+  {
+    "roleName": "Data Scientist",
+    "category": "Data",
+    "requiredSkills": ["Python", "R", "SQL", "Machine Learning", "Statistics", "Pandas"],
+    "avgSalaryYear1": 100000,
+    "avgSalaryYear5": 155000,
+    "demandScore": 88,
+    "automationRiskScore": 30,
+    "growthRate": 20,
+    "description": "Extracts actionable insights from complex data. High compensation and solid future outlook."
+  },
+  {
+    "roleName": "DevOps Engineer",
+    "category": "Cloud",
+    "requiredSkills": ["CI/CD", "Linux", "Jenkins", "Ansible", "Terraform", "AWS"],
+    "avgSalaryYear1": 105000,
+    "avgSalaryYear5": 160000,
+    "demandScore": 90,
+    "automationRiskScore": 30,
+    "growthRate": 21,
+    "description": "Bridges development and operations to streamline deployment. Highly valued for improving engineering velocity."
+  },
+  {
+    "roleName": "Bank Probationary Officer",
+    "category": "Govt",
+    "requiredSkills": ["Quantitative Aptitude", "Reasoning", "English", "General Awareness", "Finance", "Management"],
+    "avgSalaryYear1": 55000,
+    "avgSalaryYear5": 85000,
+    "demandScore": 75,
+    "automationRiskScore": 50,
+    "growthRate": 5,
+    "description": "Government banking role. Highly stable, with structured promotions. Automation affects lower-level clerical tasks, but management remains secure."
+  },
+  {
+    "roleName": "Civil Services (IAS/IPS)",
+    "category": "Govt",
+    "requiredSkills": ["General Studies", "Public Administration", "Decision Making", "Ethics", "Policy Design", "Leadership"],
+    "avgSalaryYear1": 70000,
+    "avgSalaryYear5": 120000,
+    "demandScore": 99,
+    "automationRiskScore": 5,
+    "growthRate": 5,
+    "description": "Elite government administrative role. Extremely low automation risk. Intense competition and highly stable."
+  },
+  {
+    "roleName": "AI Prompt Engineer",
+    "category": "AI",
+    "requiredSkills": ["LLMs", "NLP", "Python", "Critical Thinking", "Creative Writing", "AI Ethics"],
+    "avgSalaryYear1": 80000,
+    "avgSalaryYear5": 130000,
+    "demandScore": 85,
+    "automationRiskScore": 60,
+    "growthRate": 40,
+    "description": "Emerging role focused on instructing and fine-tuning AI models. Fast growth but risky long-term if AI becomes self-prompting."
+  },
+  {
+    "roleName": "UX/UI Designer",
+    "category": "Web",
+    "requiredSkills": ["Figma", "Adobe XD", "Wireframing", "Prototyping", "User Research", "Visual Design"],
+    "avgSalaryYear1": 70000,
+    "avgSalaryYear5": 115000,
+    "demandScore": 75,
+    "automationRiskScore": 45,
+    "growthRate": 10,
+    "description": "Focuses on user experience and interface aesthetics. Creative roles are safer, but AI generates standard layouts easily now."
+  }
+]
